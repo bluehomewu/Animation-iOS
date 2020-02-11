@@ -1,0 +1,7 @@
+id=animation-ios
+name=iOS轉場動畫
+version=v4
+versionCode=200211
+author=EdwardWu(xda@bluehomewu)
+description=使用IOS轉場動畫     Change Transition animation To iOS Transition animation.
+minMagisk=1900
